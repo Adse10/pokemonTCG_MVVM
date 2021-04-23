@@ -1,0 +1,44 @@
+PODS:
+  - ImageViewer (0.1.4)
+  - RxCocoa (6.1.0):
+    - RxRelay (= 6.1.0)
+    - RxSwift (= 6.1.0)
+  - RxRelay (6.1.0):
+    - RxSwift (= 6.1.0)
+  - RxSwift (6.1.0)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+
+DEPENDENCIES:
+  - ImageViewer (from `https://github.com/tovkal/ImageViewer`)
+  - RxCocoa (= 6.1.0)
+  - RxSwift (= 6.1.0)
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  ImageViewer:
+    :git: https://github.com/tovkal/ImageViewer
+
+CHECKOUT OPTIONS:
+  ImageViewer:
+    :commit: 76944a7b1192d1a0af6767f33804a69bd2d9e743
+    :git: https://github.com/tovkal/ImageViewer
+
+SPEC CHECKSUMS:
+  ImageViewer: 0c79f53859883f4215b0ceeac4c7e4d3caede8a3
+  RxCocoa: 5c51f02d562cbd94629f6c26cf0c80fe4ab8d343
+  RxRelay: 483e1a19fad961b41f0b0c0bee506f46c1ae14fe
+  RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+
+PODFILE CHECKSUM: 1c530ccbade9eaf69f502aee8bdb0bda95738c8c
+
+COCOAPODS: 1.10.0
