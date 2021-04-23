@@ -1,0 +1,6 @@
+"name" = "Nombre";
+"supertype" = "Supertipo";
+"subtypes" = "Subtipos";
+"types" = "Tipos";
+"hp" = "HP";
+"all.cards" = "Todas las cartas";
